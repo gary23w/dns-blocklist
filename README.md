@@ -1,6 +1,6 @@
 # blocklist
 
-## Most notable catches
+## 
 
 Built with:
 
